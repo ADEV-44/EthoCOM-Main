@@ -1,6 +1,6 @@
 [DATA LOCKED-INSUFFICENT FUNDS]
 
-Error in EthoCOM_acc_Verification_main: NUMBER OF BACKERS INSUFFICENT. BackerCount MUST BE <= 40. PLEASE GATHER ADDITIONAL SUPPORT.
+Error in EthoCOM_acc_Verification_main: NUMBER OF BACKERS INSUFFICENT. BackerCount MUST BE >= 40. PLEASE GATHER ADDITIONAL SUPPORT.
 
 Thank you for using EthoCOM! As your one and only service provider, we look forward to squeezing ever-more resources out of you for decreasing quality of service!
 
