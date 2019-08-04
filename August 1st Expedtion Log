@@ -1,7 +1,51 @@
-[DATA LOCKED-INSUFFICENT FUNDS]
+Starting EthoCOM v 0.21.7226 (c) 1999 Streeper Industries
+> ...
+> ...
+> ...
+> ...
+> link established
+> Enter username:usr32
+> Enter password:********
+> Access Granted!
+> EthoCOM funds verification in progress.....................
+> Verification passed!
+> Welcome to EthoCOM!
+> EthoCOM: Do No Evil. Unless profit.
+> Welcome usr32!
+> ls
+> /hushroom
+> /logs
+> /shortcuts
+> cd /shortcuts
+shortcuts/> ls
+shortcuts/> 32_if_i_catch_you_goofing_off_here_again_im_reporting_you_to_the_director.txt
+shortcuts/> https://myspace.com/
+shortcuts/> https://www.ask.com/
+shortcuts/> https://youtu.be/
+shortcuts/> https://imgur.com/a/
+shortcuts/> https://9gag.com/
+shortcuts/> http://www.friendster.com/
+shortcuts/> cd ..
+> cd /logs
+logs/> ls
+logs/> /oHg5SJYRHA0
+logs/> /GAUzhE0
+logs/> cd /oHg5SJYRHA0
+logs/oHg5SJYRHA0/> ls
+logs/oHg5SJYRHA0/> 1LogOpening.mp3
+logs/oHg5SJYRHA0/> 2StrangeInterferance.mp3
+logs/oHg5SJYRHA0/> 3WhatWasThat.mp3
+logs/oHg5SJYRHA0/> 4ShitShitShitSendHelp.mp3
+logs/oHg5SJYRHA0/> 5REAVERSinSECTOROHGODOHFUCK.mp3
+logs/oHg5SJYRHA0/> 6BeaconOnlineButKindaBroke.mp3
+logs/oHg5SJYRHA0/> 7CasualtyReport4InternsDead.mp3
+logs/oHg5SJYRHA0/> 8CanIComeHomeNowPlease.mp3
+logs/oHg5SJYRHA0/> 9FoundSomethingWeirdSendingAPic.mp3
+logs/oHg5SJYRHA0/> picTranscript.png
+logs/oHg5SJYRHA0/> open picTranscript.png
+ERROR: UNSUPPORTED FILETYPE: ".png"
 
-Error in EthoCOM_acc_Verification_main: NUMBER OF BACKERS INSUFFICENT. BackerCount MUST BE >= 40 AND/OR FundsRaised >$1000. PLEASE GATHER ADDITIONAL SUPPORT.
-
-Thank you for using EthoCOM! As your one and only service provider, we look forward to squeezing ever-more resources out of you for decreasing quality of service!
-
-EthoCOM: Do No Evil. Unless profit.
+CRITICAL ERROR IN SHELL: MAIN
+_x_ _x_ x___ ___x__ _____x____ puzzalarium.com/_____
+SHUTTING DOWN NOW
+> fuck.
